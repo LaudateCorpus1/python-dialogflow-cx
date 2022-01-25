@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.9.0](https://github.com/googleapis/python-dialogflow-cx/compare/v1.8.0...v1.9.0) (2022-01-25)
+
+
+### Features
+
+* add api_key support ([#240](https://github.com/googleapis/python-dialogflow-cx/issues/240)) ([cf95791](https://github.com/googleapis/python-dialogflow-cx/commit/cf9579171290ecf5afeeb6a38a3504857808a4ef))
+
 ## [1.8.0](https://github.com/googleapis/python-dialogflow-cx/compare/v1.7.0...v1.8.0) (2022-01-14)
 
 
